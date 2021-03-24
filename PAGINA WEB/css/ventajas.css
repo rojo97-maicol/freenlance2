@@ -1,0 +1,131 @@
+body{
+    background-image: url("../imagines/wordpress-581849_640.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #429E81 ;
+    
+    }
+    /*header{
+        background-color: rgb(89, 0, 255);
+        height:200px ;
+    }*/
+    .header{
+        background-color: rgb(68, 139, 180);
+        height:100px;
+        width: 70%;
+        margin-left: auto ;
+        margin-right: auto;
+        /*position: relative;*/
+        
+    }
+    .contenedortl{
+        
+        width: 34%;
+        height: 100px;
+        margin: 0px;
+        float: left;
+    }
+    .logo{
+        background-image: url("../imagines/wordpress-581849_640.jpg");
+        background-size: contain;
+        background-color:blanchedalmond;
+        background-size: cover;
+        width: 90px;
+        height: 50px;
+        margin-left: auto;
+        margin-top: 25px;
+        float: right;
+    }
+    .titulo{
+        
+        margin-left: 20px;
+        margin-top: 25px;
+        position: absolute;
+        color:black;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        float: left;
+        width: 18%;
+        
+    }
+    .art1{
+        width: 35%;
+        color: blueviolet;
+        font-size: 50px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 700px;
+        border-radius: 20px;
+        
+        
+    }
+    .imagen{
+        background-image: url("../imagines/laptop-2838921_1280.jpg");
+        margin-top: -158px;
+        margin-right: -167px;
+        background-size: contain;
+        background-color:blanchedalmond;
+        background-size: cover;
+        width: 1163px;
+        height: 470px;
+        float: right;
+        border-radius: 20px;
+    }
+    .art2{
+        width: 25%;
+        color:aliceblue;
+        font-size: 50px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 800px;
+        border-radius: 20px;
+    }
+    .art3{
+        width: 60%;
+        margin: auto;
+        margin-top: 15px;
+        background-color: aliceblue;
+        padding: 10px;
+        text-align: justify;
+        border-radius: 20px;
+        font-size: 20px;
+    }
+    .art4{
+        width: 25%;
+        color:aliceblue;
+        font-size: 50px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 800px;
+        border-radius: 20px;
+    }
+    .art5{
+        width: 60%;
+        margin: auto;
+        margin-top: 15px;
+        background-color: aliceblue;
+        padding: 10px;
+        text-align: justify;
+        border-radius: 20px;
+        font-size: 20px;
+    }
+    
+    nav{
+        
+        float: right;
+        margin-top: 65px;
+    }
+    ul{
+        
+        margin-bottom: 0px;
+        
+    }
+    li{
+        
+        margin-top: 5px;
+        display: inline;
+    }
+    a{
+        color: azure;
+        font-family: 'Courier New', Courier, monospace;
+        text-decoration: none;
+        margin-right: 15px;
+    }

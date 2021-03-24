@@ -1,0 +1,172 @@
+body{
+    background-image: url("../imagines/programming-2115930_1920.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #429E81 ;
+    
+    }
+    /*header{
+        background-color: rgb(89, 0, 255);
+        height:200px ;
+    }*/
+    .header{
+        background-color: rgb(68, 139, 180);
+        height:100px;
+        width: 70%;
+        margin-left: auto ;
+        margin-right: auto;
+        /*position: relative;*/
+        
+    }
+    .contenedortl{
+        
+        width: 34%;
+        height: 100px;
+        margin: 0px;
+        float: left;
+    }
+    .logo{
+        background-image: url("../imagines/wordpress-581849_640.jpg");
+        background-size: contain;
+        background-color:blanchedalmond;
+        background-size: cover;
+        width: 90px;
+        height: 50px;
+        margin-left: auto;
+        margin-top: 25px;
+        float: right;
+    }
+    .titulo{
+        
+        margin-left: 20px;
+        margin-top: 25px;
+        position: absolute;
+        color:black;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        float: left;
+        width: 18%;
+        
+    }
+    .main{
+    height: 800px;
+    margin-top: 100px;
+        
+    }
+    .artT{
+        width: 23%;
+        margin-left: 680px;      
+        background-color: azure;
+        font-size: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: black;
+        border-radius: 15px;
+        text-align: justify;
+    }
+    .art{
+        width: 60%;
+        margin: auto;
+        background-color: aliceblue;
+        padding: 10px;
+        text-align: justify;
+        border-radius: 20px;
+        font-size: 20px;
+        
+        
+    }
+    .art2{
+        width: 60%;
+        margin: auto;
+        margin-top: 25px;
+        background-color: aqua;
+        padding: 10px;
+        text-align: justify;
+        border-radius: 20px;
+        color: #743774;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    nav{
+        
+        float: right;
+        margin-top: 65px;
+    }
+    ul{
+        
+        margin-bottom: 0px;
+        
+    }
+    li{
+        
+        margin-top: 5px;
+        display: inline;
+    }
+    a{
+        color: azure;
+        font-family: 'Courier New', Courier, monospace;
+        text-decoration: none;
+        margin-right: 15px;
+    }
+    .footer{
+        background-color: rgb(68, 139, 180);
+        height:100px;
+        width: 70%;
+        margin-left: auto ;
+        margin-right: auto;
+        }
+    .logo1{
+        background-image: url("../imagines/wordpress-581849_640.jpg");
+        background-size: contain;
+        background-color:blanchedalmond;
+        background-size: cover;
+        width: 90px;
+        height: 50px;
+        margin-right: 875px;
+        margin-top: 25px;
+        float: right;
+    }
+    .contenedor2{
+        /*background-color: rgb(0, 255, 64);*/
+        width: 38%;
+        height: 100px;
+        margin-left:826px;
+        margin-top: -75px;
+        float: left;
+
+    }
+    .direccion{
+        color: black;
+        margin-left: 300px;
+        width: 40%;
+        height: 5%;
+        margin-bottom: auto;  
+    }
+    .logo2{
+        /*background-image: url("../imagines/hogar.png");
+        width: 10%;
+        height: 10%;
+        background-size: contain;
+        background-color:blanchedalmond;
+        background-size: cover;
+        margin-left: auto;
+        margin-top:auto ;
+        margin-left: 300px;*/
+    }
+    .telefono{
+        color:brown;
+        margin-left: 300px;
+        margin-bottom: 30px;
+        
+    }
+    .logo3{
+        /*background-image: url("../imagines/telefono-inteligente.png");
+        width: 10%;
+        height: 10%;
+        background-size: contain;
+        background-color:blanchedalmond;
+        background-size: cover;
+        margin-top:auto ;
+        margin-left: 300px;
+
+    }
